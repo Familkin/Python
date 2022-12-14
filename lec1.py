@@ -28,10 +28,10 @@
 # print(f'{a}{b}')
 # print(a+b)
 
-# a = 1.31321321
-# b = 8
-# c = round(a * b, 5)
-# print(c)
+a = 1.31321321
+b = 8
+c = round(a * b, 2)
+print(c)
 
 
 # a = 3
@@ -126,4 +126,4 @@
 #     print(i)
 
 
-help(str)  
+# help(str)  
